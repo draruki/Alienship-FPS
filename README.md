@@ -1,2 +1,4 @@
 # Alienship-FPS
-An FPS game I built using Unity.
+A small FPS game I built using Unity.
+
+![alt text](space.gif)
